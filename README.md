@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Slogan
+
+Villa Roots : A Village Rooted Right from Home . 🏠
+
+## Mission Statement
+
+VillaRoots empowers parents to take an active approach in their children’s learning through creating a platform that fosters homegrown, rooted communities by collaborating with one another, while connecting with locally skilled tutors and curriculum coaches to provide their expertise in specialized subject matters.
 
 ## Available Scripts
 
@@ -66,4 +72,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # villa_roots_frontend
