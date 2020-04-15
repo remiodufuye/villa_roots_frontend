@@ -1,6 +1,6 @@
-### Slogan
+### Villa Roots
 
-Villa Roots : A Village Rooted Right from Home . 🏠
+A Village Rooted Right from Home . 🏠
 
 ## Mission Statement
 
